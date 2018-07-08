@@ -1,0 +1,21 @@
+body{
+  background-color: #2cbff7;
+}
+header h1{
+  color: white;
+  text-align: center;
+}
+.weather{
+  height: 450px;
+  text-align: center;
+}
+#print{
+  color: white;
+}
+#typeOfDay{
+  height: 400px;
+  width: 50%;
+}
+.inputs{
+  text-align: center;
+}
